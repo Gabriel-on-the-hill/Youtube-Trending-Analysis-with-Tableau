@@ -1,0 +1,29 @@
+# Tableau files
+*.twb
+*.twbx
+__TableauTemp/
+
+# Python (if preprocessing was done)
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System/Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Datasets and logs
+*.csv
+*.xlsx
+*.log
+
+# Exported images (optional)
+*.png
+*.jpg
